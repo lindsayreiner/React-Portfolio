@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lindsayreiner/react-portfolio/static/css/main.bd581b14.css",
-    "main.js": "/lindsayreiner/react-portfolio/static/js/main.2d3ab64e.js",
-    "static/media/background-image.jpg": "/lindsayreiner/react-portfolio/static/media/background-image.ad087f7f239d8bb644d5.jpg",
-    "static/media/app_screenshot.png": "/lindsayreiner/react-portfolio/static/media/app_screenshot.d4c649fa7917bbe9453c.png",
-    "static/media/astronomical-guidance.png": "/lindsayreiner/react-portfolio/static/media/astronomical-guidance.689fb494a509c1345c27.png",
-    "static/media/me.jpg": "/lindsayreiner/react-portfolio/static/media/me.4e38aa5ad0b3f784675f.jpg",
-    "static/media/Finished Scheduler.png": "/lindsayreiner/react-portfolio/static/media/Finished Scheduler.1120fe5e06de5087aaed.png",
-    "static/media/Weather app with search results.png": "/lindsayreiner/react-portfolio/static/media/Weather app with search results.8de9f19b6f42fcd782db.png",
-    "static/media/order-summary-comp.png": "/lindsayreiner/react-portfolio/static/media/order-summary-comp.e2b37568f40fa8c87675.png",
-    "static/media/LindsayReinerResume.pdf": "/lindsayreiner/react-portfolio/static/media/LindsayReinerResume.17120b87259b6467d13f.pdf",
-    "static/media/10-object-oriented-programming-homework-demo.png": "/lindsayreiner/react-portfolio/static/media/10-object-oriented-programming-homework-demo.399fd7d8d2f2bf956293.png",
-    "index.html": "/lindsayreiner/react-portfolio/index.html",
-    "main.bd581b14.css.map": "/lindsayreiner/react-portfolio/static/css/main.bd581b14.css.map",
-    "main.2d3ab64e.js.map": "/lindsayreiner/react-portfolio/static/js/main.2d3ab64e.js.map"
+    "main.css": "/react-portfolio/static/css/main.f5fc5dba.css",
+    "main.js": "/react-portfolio/static/js/main.66c24fa3.js",
+    "static/media/background-image.jpg": "/react-portfolio/static/media/background-image.ad087f7f239d8bb644d5.jpg",
+    "static/media/app_screenshot.png": "/react-portfolio/static/media/app_screenshot.d4c649fa7917bbe9453c.png",
+    "static/media/astronomical-guidance.png": "/react-portfolio/static/media/astronomical-guidance.689fb494a509c1345c27.png",
+    "static/media/me.jpg": "/react-portfolio/static/media/me.4e38aa5ad0b3f784675f.jpg",
+    "static/media/Finished Scheduler.png": "/react-portfolio/static/media/Finished Scheduler.1120fe5e06de5087aaed.png",
+    "static/media/Weather app with search results.png": "/react-portfolio/static/media/Weather app with search results.8de9f19b6f42fcd782db.png",
+    "static/media/order-summary-comp.png": "/react-portfolio/static/media/order-summary-comp.e2b37568f40fa8c87675.png",
+    "static/media/LindsayReinerResume.pdf": "/react-portfolio/static/media/LindsayReinerResume.17120b87259b6467d13f.pdf",
+    "static/media/10-object-oriented-programming-homework-demo.png": "/react-portfolio/static/media/10-object-oriented-programming-homework-demo.399fd7d8d2f2bf956293.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.f5fc5dba.css.map": "/react-portfolio/static/css/main.f5fc5dba.css.map",
+    "main.66c24fa3.js.map": "/react-portfolio/static/js/main.66c24fa3.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd581b14.css",
-    "static/js/main.2d3ab64e.js"
+    "static/css/main.f5fc5dba.css",
+    "static/js/main.66c24fa3.js"
   ]
 }
